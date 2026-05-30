@@ -120,6 +120,7 @@ Ce projet a été réalisé dans le cadre du cours de *Modélisation en Sciences
 ## Auteurs
 
 **Uriel-Darlin AZEMFACK-HIMELE** & **Volvian Silvansien WAMBA FOGOUG**
+
 AUF-Université de Dschang  
 
 ---
