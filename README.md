@@ -115,7 +115,7 @@ $$J = \int_0^T \left[ I(t) + \frac{c}{2} u(t)^2 \right] dt$$
 ---
 ## Contexte académique :
 
-Ce projet a été réalisé dans le cadre du cours de *Modélisation en Sciences du Vivant* donné par le **Pr. Jules Tapamo**, en Master 2 Data Science et Ingénierie Mathématique à l'Université de Dschang (programme FOAD AUF).
+Ce projet a été réalisé dans le cadre du cours de *Modélisation en Sciences du Vivant* donné par le **Pr Samuel BOWONG**, en Master 2 Data Science et Ingénierie Mathématique à l'Université de Dschang (programme FOAD AUF).
 
 ---
 
