@@ -35,7 +35,7 @@ projet2_controle_epidemie/
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/DarlingHi/projet2-controle-epidemie.git
+git clone https://github.com/<votre-username>/projet2-controle-epidemie.git
 cd projet2-controle-epidemie
 
 # Créer un environnement virtuel
