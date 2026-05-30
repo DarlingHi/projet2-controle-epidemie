@@ -71,6 +71,8 @@ Ouvrez `Projet2_Controle_Optimal_Epidemie.ipynb` et exécutez les cellules dans 
 
 Les 3 figures sont enregistrées dans `./outputs/`.
 
+### Visualiser le notebook(dans le cas ou ça ne s'affiche pas directement dans GitHub)
+Possible de visualiser le notebook sans erreurs en cliquant sur [nbviewer](https://nbviewer.org/github/DarlingHi/projet2-controle-epidemie/blob/main/Projet2_Controle_Optimal_Epidemie.ipynb)
 ---
 
 ## Modèle mathématique
